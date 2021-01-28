@@ -1,3 +1,3 @@
 # PeopleSpace-Image-Classification-Assignment
 
-https://hub.gke2.mybinder.org/user/newdongjun-peop-tion-assignment-u33infvf/voila/render/shoes_classfication.ipynb?token=nL_UGUyATE23gb6sg-Dpaw
+https://mybinder.org/v2/gh/NewDongJun/PeopleSpace-Image-Classification-Assignment/HEAD?urlpath=%2Fvoila%2Frender%2Fshoes_classfication.ipyn
